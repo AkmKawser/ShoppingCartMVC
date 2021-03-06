@@ -1,1 +1,1 @@
-ASP.NET (Framework) Porject using MVC Architecture.
+ASP.NET (Framework) Project using MVC Architecture.
