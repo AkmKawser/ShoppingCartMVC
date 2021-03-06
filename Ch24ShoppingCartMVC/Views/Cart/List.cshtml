@@ -6,16 +6,18 @@
     <link href="~/Content/Cart.css" rel="stylesheet" />
 }
 <h2>Your Shopping Cart</h2>
-@if (Model.Cart.__________________)
+@if (Model.Cart.Count == 0)
 {
     <p>Nothing in your cart yet.</p>
 }
 else
 {
     <select multiple="multiple">
-        @foreach (var item in ______________________)
+        @foreach (var item in Model.Cart)
         {
-            <option>_____________________</option>
+            <option>@item.Name (@item.Quantity at @item.UnitPrice each)</option>
         }
     </select>
+    <br />
+    <button style="float:none">@Html.ActionLink("Checkout", "Index/", "Checkout")</button>
 }
