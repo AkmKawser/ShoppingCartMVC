@@ -1,0 +1,17 @@
+﻿@model Ch24ShoppingCartMVC.Models.ContactViewModel
+@{
+    ViewBag.Title = "Contact Us";
+}
+@* Display 
+    Contact Us
+    Email
+    Phone
+    Fax
+    Social Media URLs*@
+<h1>Contact Us</h1>
+<p>Email: @Model.Email</p>
+__________________________________
+<p>@foreach (string url in _____________________________) {
+        <a href="@url" target="_blank">@url</a> <br />
+    }
+</p>
