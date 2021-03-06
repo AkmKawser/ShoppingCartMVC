@@ -8,11 +8,11 @@
 @*Display 
 Welcome to the Halloween Store
 Thank you for visiting us this beautiful CURRENT DAY!*@
-<h1>_________________________</h1>
-<div>___________________________________</div>
+<h1>@ViewBag.HeaderText</h1>
+<div>Thank you for visiting us this beautiful @DateTime.Today.DayOfWeek</div>
 
 @section footer {
     @*Display
     Where every day is Halloween!*@
-    <p>___________________________________</p>
+<p>@ViewData["FooterText"]</p>
 }
