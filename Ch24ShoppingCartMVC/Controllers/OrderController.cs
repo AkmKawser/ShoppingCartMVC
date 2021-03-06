@@ -13,7 +13,7 @@ namespace Ch24ShoppingCartMVC.Controllers {
         [HttpGet]
         public ActionResult Index(string id) {
             //get list for drop down from temp data called products 
-            SelectList products = (SelectList)T____________________;
+            SelectList products = (SelectList)TempData ["products"];
             if (products == null) {
                 //CALL THE METHOD GetProductList 
                 var list = _________________________________
