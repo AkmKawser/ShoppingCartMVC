@@ -6,13 +6,14 @@ using System.Web.Mvc;
 using Ch24ShoppingCartMVC.Models;
 using Ch24ShoppingCartMVC.Models.DataAccess;
 
-namespace Ch24ShoppingCartMVC.Models {
+namespace Ch24ShoppingCartMVC.Models
+{
     public class OrderModel
     {
         private List<ProductViewModel> products;
         //Implement GetAllProductsFromDataStore
         public List<Product> GetAllProductsFromDataStore()
-        {    
+        {
             using (HalloweenEntities data = new HalloweenEntities())
             {  //get all the products from the Collection Products order by name using HalloweenEntities
                 return data.Products.ToList();
@@ -33,7 +34,8 @@ namespace Ch24ShoppingCartMVC.Models {
             return model;
         }
         //Implement the method GetProductList
-        public List<ProductViewModel> GetProductsList() {
+        public List<ProductViewModel> GetProductsList()
+        {
             if (this.products == null)
                 //Call the method GetAllProducts
                 this.products = this.GetAllProducts();
@@ -51,12 +53,12 @@ namespace Ch24ShoppingCartMVC.Models {
             }
             return productmodels;
         }
-        
+
         public Product GetProductByIdFromDataStore(string id)
         {
             using (HalloweenEntities data = new HalloweenEntities())
             {  //Get a product from Products of data where ProductID is matched with id parameter
-                return data.Products.FirstOrDefault(p=>p.ProductID == id);
+                return data.Products.FirstOrDefault(p => p.ProductID == id);
             }
         }
         public OrderViewModel GetOrderInfo(string id)
@@ -65,21 +67,16 @@ namespace Ch24ShoppingCartMVC.Models {
             //Call the method GetSelectedProduct and assign the return value to SelectedProduct property
             order.SelectedProduct = this.GetSelectedProduct(id);
             return order;
-        }  
+        }
         public ProductViewModel GetSelectedProduct(string id)
         {
             if (this.products == null)
                 //call the method ConvertToViewModel and pass the method GetProductByIdFromDataStore(id)
-                return this.ConvertToViewModel (this.GetProductByIdFromDataStore(id));
+                return this.ConvertToViewModel(this.GetProductByIdFromDataStore(id));
             else
                 //Get the product from the products where ProductID is matched with id (Using Lambda expression)
-                return products.FirstOrDefault(p=> p.ProductID == id);
+                return products.FirstOrDefault(p => p.ProductID == id);
         }
-              
-        
-        
-        
-        
-        
+
     }
 }
