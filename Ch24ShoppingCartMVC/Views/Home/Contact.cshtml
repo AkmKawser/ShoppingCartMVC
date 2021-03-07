@@ -2,7 +2,7 @@
 @{
     ViewBag.Title = "Contact Us";
 }
-@* Display 
+@* Display
     Contact Us
     Email
     Phone
@@ -10,8 +10,11 @@
     Social Media URLs*@
 <h1>Contact Us</h1>
 <p>Email: @Model.Email</p>
-__________________________________
-<p>@foreach (string url in Model.SocialMediaUrls) {
+<p>Phone: @Model.Phone</p>
+<p>Fax: @Model.Fax</p>
+<p>
+    @foreach (string url in Model.SocialMediaUrls)
+    {
         <a href="@url" target="_blank">@url</a> <br />
     }
 </p>
