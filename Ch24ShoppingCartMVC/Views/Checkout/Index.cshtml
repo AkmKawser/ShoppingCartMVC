@@ -1,0 +1,87 @@
+﻿@model Ch24ShoppingCartMVC.Models.ViewModels.CheckoutViewModel
+
+@{
+    ViewBag.Title = "Checkout";
+}
+
+<h2>Checkout Page</h2>
+<br />
+@if (Model.ProductList.Count > 0)
+{
+    <form method="post" action="/Checkout/Pay">
+
+        <table>
+            <tr>
+                <th>Product ID</th>
+                <th>Product Name</th>
+                <th>Unit Price</th>
+                <th>Quanity</th>
+                <th>Total Price</th>
+            </tr>
+
+            @foreach (var item in Model.ProductList)
+            {
+                <tr>
+                    <td>@item.ProductID</td>
+                    <td>@item.Name</td>
+                    <td>@item.UnitPrice.ToString("c")</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.TotalPerProduct.ToString("c")</td>
+                </tr>
+            }
+            <tr>
+                <td colspan="5">&nbsp</td>
+            </tr>
+            <tr>
+                <td colspan="4">Total Cost</td>
+                <td>@Model.Total.ToString("c")</td>
+            </tr>
+            <tr>
+                <td colspan="4">Total Cost With Tax</td>
+                <td>@Model.TotalWithTax.ToString("c")</td>
+            </tr>
+        </table>
+        <br />
+        <br />
+        <br />
+        <div>
+            <table>
+                <tr>
+                    <td>
+                        <label>Select A Payment Option</label>
+                    </td>
+                    <td>
+                        @Html.DropDownListFor(model => model.PaymentOptions, Model.PaymentOptions, "----")
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <br />
+        <br />
+        <br />
+        <div>
+            <table>
+                <tr>
+                    <td>
+                        <label>Shipment Address</label>
+                    </td>
+                    <td>
+                        <textarea name="ShipmentAddress" style="width:100%"></textarea>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <br />
+        <br />
+        <br />
+        <div>
+            <button type="submit">Procced To Pay</button>
+        </div>
+    </form>
+}
+else
+{
+    <div>
+        @Html.ActionLink(" Start Ordering Now", "Index/", "Order")
+    </div>
+}
