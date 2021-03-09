@@ -1,0 +1,180 @@
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.dll
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.pdb
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Antlr3.Runtime.dll
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\EntityFramework.dll
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Newtonsoft.Json.dll
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Net.Http.Formatting.dll
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.dll
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.WebHost.dll
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Mvc.dll
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Optimization.dll
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Providers.dll
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Razor.dll
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.dll
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Razor.dll
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\WebGrease.dll
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\EntityFramework.xml
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Newtonsoft.Json.xml
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Net.Http.Formatting.xml
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.xml
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.WebHost.xml
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Mvc.xml
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Razor.xml
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.xml
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Razor.xml
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.dll
+C:\Visual Studio 2012 Projects\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.pdb
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.dll
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.pdb
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Antlr3.Runtime.dll
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\EntityFramework.dll
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Newtonsoft.Json.dll
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Net.Http.Formatting.dll
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.dll
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.WebHost.dll
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Mvc.dll
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Optimization.dll
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Providers.dll
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Razor.dll
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Deployment.dll
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.dll
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Razor.dll
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\WebGrease.dll
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\EntityFramework.xml
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Newtonsoft.Json.xml
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Net.Http.Formatting.xml
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.xml
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.WebHost.xml
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Mvc.xml
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Razor.xml
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.xml
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Deployment.xml
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Razor.xml
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csprojResolveAssemblyReference.cache
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.dll
+C:\aspnet45_cs\Ch24ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.pdb
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.dll.config
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.dll
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.pdb
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Antlr3.Runtime.dll
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\EntityFramework.dll
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Newtonsoft.Json.dll
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Mvc.dll
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Optimization.dll
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Providers.dll
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Razor.dll
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Deployment.dll
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.dll
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Razor.dll
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\WebGrease.dll
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\EntityFramework.xml
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Newtonsoft.Json.xml
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Mvc.xml
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Razor.xml
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.xml
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Deployment.xml
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Razor.xml
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csprojResolveAssemblyReference.cache
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.dll
+D:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.pdb
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.dll.config
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.dll
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.pdb
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Antlr3.Runtime.dll
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\EntityFramework.dll
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Newtonsoft.Json.dll
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Net.Http.Formatting.dll
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.dll
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.WebHost.dll
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Mvc.dll
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Optimization.dll
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Providers.dll
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Razor.dll
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Deployment.dll
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.dll
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Razor.dll
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\WebGrease.dll
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\EntityFramework.xml
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Newtonsoft.Json.xml
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Net.Http.Formatting.xml
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.xml
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.WebHost.xml
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Mvc.xml
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Razor.xml
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.xml
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Deployment.xml
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Razor.xml
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csprojResolveAssemblyReference.cache
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.dll
+E:\cecs475sp16\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.pdb
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.dll.config
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.dll
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.pdb
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Antlr3.Runtime.dll
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\EntityFramework.dll
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Newtonsoft.Json.dll
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Mvc.dll
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Optimization.dll
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Providers.dll
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Razor.dll
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Deployment.dll
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.dll
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Razor.dll
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\WebGrease.dll
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\EntityFramework.xml
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Newtonsoft.Json.xml
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Mvc.xml
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Razor.xml
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.xml
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Deployment.xml
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Razor.xml
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csprojResolveAssemblyReference.cache
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.dll
+C:\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.pdb
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csprojAssemblyReference.cache
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csproj.CoreCompileInputs.cache
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.dll
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.dll.config
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.dll
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.pdb
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Antlr3.Runtime.dll
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\EntityFramework.dll
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Microsoft.Web.Infrastructure.dll
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Newtonsoft.Json.dll
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Net.Http.Formatting.dll
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.dll
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.WebHost.dll
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Mvc.dll
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Optimization.dll
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Providers.dll
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Razor.dll
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Deployment.dll
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.dll
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Razor.dll
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\WebGrease.dll
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\EntityFramework.xml
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Newtonsoft.Json.xml
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Net.Http.Formatting.xml
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.xml
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.WebHost.xml
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Mvc.xml
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Razor.xml
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.xml
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Deployment.xml
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Razor.xml
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csproj.CopyComplete
+G:\1.Unsync\2. LANGUAGE\3.C#\AIUB\2.ADVANCED C# (ATP-2)\MY COURSE\1.MID TERM\Mid Assignment\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.pdb
