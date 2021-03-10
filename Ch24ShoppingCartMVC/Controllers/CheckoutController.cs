@@ -25,7 +25,7 @@ namespace Ch24ShoppingCartMVC.Controllers
         [HttpPost]
         public ActionResult Pay()
         {
-            Session["cart"] = null;
+            Session["cart"] = null;  //data passing from controller to view
 
             return RedirectToAction("Index", "Home");
         }

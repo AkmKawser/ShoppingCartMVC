@@ -41,7 +41,7 @@ namespace Ch24ShoppingCartMVC.Controllers {
             //Call the method AddtoCart
             cart.AddToCart(model);
             //Assign model to the TempData
-            TempData["cart"] = model;
+            TempData["cart"] = model;  //data passign from controller to view
             return RedirectToAction("List", "Cart");
         }
        

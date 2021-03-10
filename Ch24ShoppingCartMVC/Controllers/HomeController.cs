@@ -10,7 +10,7 @@ namespace Ch24ShoppingCartMVC.Controllers {
     {
         [HttpGet]
         public ViewResult Index() {
-            ViewBag.HeaderText = "Welcome to the Halloween Store";
+            ViewBag.HeaderText = "Welcome to the Halloween Store";  //Passing data from controller to view using ViewBag
             ViewData["FooterText"] = "Where every day is Halloween!";
             return View();
         }

@@ -15,7 +15,7 @@ namespace Ch24ShoppingCartMVC.Controllers {
             var invQ = TempData["invQ"];
             if (invQ != null)
             {
-                ViewBag.invQ = (int)invQ;
+                ViewBag.invQ = (int)invQ;   // Passing data from controller to view using ViewBag
             }
             //get list for drop down from temp data called products 
             SelectList products = (SelectList)TempData ["products"];
